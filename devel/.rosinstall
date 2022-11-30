@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/raminudash/catkin_ws/devel/setup.sh

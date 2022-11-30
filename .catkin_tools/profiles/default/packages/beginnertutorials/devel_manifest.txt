@@ -1,0 +1,5 @@
+beginnertutorials
+/home/raminudash/catkin_ws/devel/.private/beginnertutorials/cmake.lock /home/raminudash/catkin_ws/devel/./cmake.lock
+/home/raminudash/catkin_ws/devel/.private/beginnertutorials/share/beginnertutorials/cmake/beginnertutorialsConfig.cmake /home/raminudash/catkin_ws/devel/share/beginnertutorials/cmake/beginnertutorialsConfig.cmake
+/home/raminudash/catkin_ws/devel/.private/beginnertutorials/share/beginnertutorials/cmake/beginnertutorialsConfig-version.cmake /home/raminudash/catkin_ws/devel/share/beginnertutorials/cmake/beginnertutorialsConfig-version.cmake
+/home/raminudash/catkin_ws/devel/.private/beginnertutorials/lib/pkgconfig/beginnertutorials.pc /home/raminudash/catkin_ws/devel/lib/pkgconfig/beginnertutorials.pc
